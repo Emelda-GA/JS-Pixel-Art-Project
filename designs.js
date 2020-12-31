@@ -1,7 +1,7 @@
 /*----- Title: Pixel Art Maker
         Author: Melinda Eades
         Date: 2020
-        Availability: http://www.graphicsdrawer.com */
+        Availability: https://github.com/Emelda-GA/JS-Pixel-Art-Project/edit/main/designs.js
 /*      Original code below was developed using information derived from the following sources:
         https://classroom.udacity.com/nanodegrees/Intro to Programming Nanodegree,
         https://maxwellito.github.io/triangulart/, 
